@@ -1,0 +1,1 @@
+("~/workspace/parse-conf/" "/usr/local/" "~/workspace/allegro-soap-api/" "~/workspace/eva_backend/")
